@@ -46,7 +46,7 @@ if __name__ == '__main__':
 
 ##### DE/rand/1/exp
 
-![DE_rand_1_exp](/Users/xavier/Desktop/Xavier Ma/个人算法主页/Differential Evolution/DE_rand_1_exp.png)
+![](https://github.com/Xavier-MaYiMing/Differential-Evolution/blob/main/DE_best_1_bin.png)
 
 ```python
 {
@@ -60,7 +60,7 @@ if __name__ == '__main__':
 
 ##### DE/rand/1/bin
 
-![DE_rand_1_bin](/Users/xavier/Desktop/Xavier Ma/个人算法主页/Differential Evolution/DE_rand_1_bin.png)
+![](https://github.com/Xavier-MaYiMing/Differential-Evolution/blob/main/DE_rand_1_bin.png)
 
 ```python
 {
@@ -74,7 +74,7 @@ if __name__ == '__main__':
 
 ##### DE/best/1/exp
 
-![](/Users/xavier/Desktop/Xavier Ma/个人算法主页/Differential Evolution/DE_best_1_exp.png)
+![](https://github.com/Xavier-MaYiMing/Differential-Evolution/blob/main/DE_best_1_exp.png)
 
 ```python
 {
@@ -88,7 +88,7 @@ if __name__ == '__main__':
 
 ##### DE/best/1/bin
 
-![DE_best_1_bin](/Users/xavier/Desktop/Xavier Ma/个人算法主页/Differential Evolution/DE_best_1_bin.png)
+![](https://github.com/Xavier-MaYiMing/Differential-Evolution/blob/main/DE_best_1_bin.png)
 
 ```python
 {
@@ -102,7 +102,7 @@ if __name__ == '__main__':
 
 ##### DE/target-to-best/1/exp
 
-![DE_target-to-best_1_exp](/Users/xavier/Desktop/Xavier Ma/个人算法主页/Differential Evolution/DE_target-to-best_1_exp.png)
+![](https://github.com/Xavier-MaYiMing/Differential-Evolution/blob/main/DE_target-to-best_1_exp.png)
 
 ```python
 {
@@ -116,7 +116,7 @@ if __name__ == '__main__':
 
 ##### DE/target-to-best/1/bin
 
-![DE_target-to-best_1_bin](/Users/xavier/Desktop/Xavier Ma/个人算法主页/Differential Evolution/DE_target-to-best_1_bin.png)
+![](https://github.com/Xavier-MaYiMing/Differential-Evolution/blob/main/DE_target-to-best_1_bin.png)
 
 ```python
 {
@@ -130,7 +130,7 @@ if __name__ == '__main__':
 
 ##### DE/best/2/exp
 
-![DE_best_2_exp](/Users/xavier/Desktop/Xavier Ma/个人算法主页/Differential Evolution/DE_best_2_exp.png)
+![](https://github.com/Xavier-MaYiMing/Differential-Evolution/blob/main/DE_best_2_exp.png)
 
 ```python
 {
@@ -144,7 +144,7 @@ if __name__ == '__main__':
 
 ##### DE/best/2/bin
 
-![DE_best_2_bin](/Users/xavier/Desktop/Xavier Ma/个人算法主页/Differential Evolution/DE_best_2_bin.png)
+![](https://github.com/Xavier-MaYiMing/Differential-Evolution/blob/main/DE_best_2_bin.png)
 
 ```python
 {
@@ -158,7 +158,7 @@ if __name__ == '__main__':
 
 ##### DE/rand/2/exp
 
-![DE_rand_2_exp](/Users/xavier/Desktop/Xavier Ma/个人算法主页/Differential Evolution/DE_rand_2_exp.png)
+![](https://github.com/Xavier-MaYiMing/Differential-Evolution/blob/main/DE_rand_2_exp.png)
 
 ```python
 {
@@ -172,7 +172,7 @@ if __name__ == '__main__':
 
 ##### DE/rand/2/bin
 
-![DE_rand_2_bin](/Users/xavier/Desktop/Xavier Ma/个人算法主页/Differential Evolution/DE_rand_2_bin.png)
+![](https://github.com/Xavier-MaYiMing/Differential-Evolution/blob/main/DE_rand_2_bin.png)
 
 ```python
 {
@@ -186,7 +186,7 @@ if __name__ == '__main__':
 
 ##### DE/rand/2/dir/exp
 
-![DE_rand_2_dir_exp](/Users/xavier/Desktop/Xavier Ma/个人算法主页/Differential Evolution/DE_rand_2_dir_exp.png)
+![](https://github.com/Xavier-MaYiMing/Differential-Evolution/blob/main/DE_rand_2_dir_exp.png)
 
 ```python
 {
@@ -200,7 +200,7 @@ if __name__ == '__main__':
 
 ##### DE/rand/2/dir/bin
 
-![DE_rand_2_dir_bin](/Users/xavier/Desktop/Xavier Ma/个人算法主页/Differential Evolution/DE_rand_2_dir_bin.png)
+![](https://github.com/Xavier-MaYiMing/Differential-Evolution/blob/main/DE_rand_2_dir_bin.png)
 
 ```python
 {
