@@ -17,42 +17,42 @@ def cal_obj(x):
 
 def mutation1(pop, npop, F):
     # DE/rand/1
-    [r1, r2, r3] = np.random.choice(range(npop), 3, replace=True)
+    [r1, r2, r3] = np.random.choice(range(npop), 3, replace=False)
     donor = pop[r1] + F * (pop[r2] - pop[r3])
     return donor
 
 
 def mutation2(pop, gbest_sol, npop, F):
     # DE/best/1
-    [r1, r2] = np.random.choice(range(npop), 2, replace=True)
+    [r1, r2] = np.random.choice(range(npop), 2, replace=False)
     donor = gbest_sol + F * (pop[r1] - pop[r2])
     return donor
 
 
 def mutation3(pop, target, gbest_sol, npop, F):
     # DE/target-to-best/1
-    [r1, r2] = np.random.choice(range(npop), 2, replace=True)
+    [r1, r2] = np.random.choice(range(npop), 2, replace=False)
     donor = target + F * (gbest_sol - target) + F * (pop[r1] - pop[r2])
     return donor
 
 
 def mutation4(pop, gbest_sol, npop, F):
     # DE/best/2
-    [r1, r2, r3, r4] = np.random.choice(range(npop), 4, replace=True)
+    [r1, r2, r3, r4] = np.random.choice(range(npop), 4, replace=False)
     donor = gbest_sol + F * (pop[r1] - pop[r2]) + F * (pop[r3] - pop[r4])
     return donor
 
 
 def mutation5(pop, npop, F):
     # DE/rand/2
-    [r1, r2, r3, r4, r5] = np.random.choice(range(npop), 5, replace=True)
+    [r1, r2, r3, r4, r5] = np.random.choice(range(npop), 5, replace=False)
     donor = pop[r1] + F * (pop[r2] - pop[r3]) + F * (pop[r4] - pop[r5])
     return donor
 
 
 def mutation6(pop, obj, npop, F):
     # DE/rand/2/dir
-    [r1, r2, r3] = np.random.choice(range(npop), 3, replace=True)
+    [r1, r2, r3] = np.random.choice(range(npop), 3, replace=False)
     r = [r1, r2, r3]
     o = [obj[r1], obj[r2], obj[r3]]
     s = np.argsort(o)
