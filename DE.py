@@ -65,7 +65,7 @@ def crossover1(target, donor, dim, CR):
     # Exponential crossover
     trail = target.copy()
     L = 1
-    while np.random.rand() <= CR and L < dim:
+    while np.random.rand() <= CR and L <= dim:
         L += 1
     n = np.random.randint(0, dim)
     for j in range(n, n + L):
